@@ -4,6 +4,8 @@ Spring Boot MVC application using JSP, JPA, and H2 for managing `Author` and `Bo
 
 ## Screenshots
 
+Images live in `docs/screenshots/` and match the latest UI captures for this assignment.
+
 ### Dashboard (home)
 
 Full dashboard at `http://localhost:8080/` showing authors, books, and the inner join table.
